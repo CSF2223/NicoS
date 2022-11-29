@@ -1,0 +1,22 @@
+/*
+Color Palette:
+background color:  #CCA8E9
+font color:        #DEFCF9
+secondary color:   #C3BEF0
+tertiary color:    #CADEFC
+*/
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding:36px;
+    align-items:center;
+    color:#DEFCF9;
+    font-family:'Fredoka One';
+}
+.logo{
+    color:#cadefc;
+    margin:12px 40px;
+    font-size:40px;
+    
+}
